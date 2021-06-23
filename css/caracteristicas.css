@@ -1,0 +1,20 @@
+.celda{
+    display: table-cell;
+}
+
+section.caracteristicas h5{
+    padding: 1em;
+    font-size: 15px;
+}
+
+section.caracteristicas p{
+    text-align: justify;
+    padding: 1em;
+    line-height: 26px;
+}
+
+section.caracteristicas img{
+    width: 64px;
+    height: 54px;
+    vertical-align: middle;
+}

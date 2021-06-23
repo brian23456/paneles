@@ -1,0 +1,70 @@
+.tres{
+    width: 33%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.imagen-central img{
+    width: 300px;
+}
+
+.check{
+    background: url("../img/check.png") no-repeat;
+}
+
+.check p{
+    padding-left: 30px;
+    line-height: 30px;
+}
+
+section.especialista{
+    background: #dcdcdc;
+}
+
+.formulario{
+    background: #202020;
+    padding: 15px;
+    width: 25%;
+    margin-left: 4em;
+}
+
+.formulario h3{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+form input, 
+form textarea {
+    display: block;
+    border-radius: 5px;
+    margin: 5px auto;
+    width: 70%;
+    height: 25px;
+}
+
+form textarea{
+    height: 40px;
+}
+
+input[type="submit"]{
+    width: 50%;
+    background: #fb7140;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+}
+
+.especialista{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.especialista .contenedor h2{
+    color: #447c11;
+    font-size: 33px;
+    font-weight: 700;
+}

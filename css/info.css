@@ -1,0 +1,18 @@
+.info{
+    background: #7aa300;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+
+.info h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.info p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 0;
+}

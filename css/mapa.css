@@ -1,0 +1,8 @@
+section.mapa .columna{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+section.mapa{
+    margin-bottom: 2rem;
+}

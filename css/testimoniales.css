@@ -1,0 +1,22 @@
+.celda{
+    display: table-cell;
+    padding: 10px;
+}
+
+section.testimoniales .contenedor h4{
+    text-align: center;
+    font-size: 30px;
+    color: #447c11;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+section.testimoniales .contenedor .celda{
+    background-image: url("../img/comillas.svg");
+    background-repeat: no-repeat;
+    padding-left: 85px;
+}
+
+section.testimoniales .contenedor{
+    margin-bottom: 2em;
+}

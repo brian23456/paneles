@@ -1,0 +1,17 @@
+/*estilo web*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+footer{
+    background: #447c11;
+}
+
+footer p{
+    padding: 15px 0;
+    color: white;
+}
+

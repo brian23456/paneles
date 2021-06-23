@@ -1,0 +1,17 @@
+.uno-cuatro{
+    width: 24%;
+    display: inline-block;
+}
+
+section.kits{
+    background: #7aa300;
+    padding-bottom: 1em;
+}
+
+section.kits h2{
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+    font-size: 32px;
+    font-weight: 700;
+}
